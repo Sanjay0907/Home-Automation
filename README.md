@@ -1,6 +1,10 @@
 # iot_p1
 
 A new Flutter project.
+## Screen
+![home automation homepage screen](https://user-images.githubusercontent.com/90062803/164763544-60033d69-fbb4-4415-b147-ac7996ac42be.png)
+
+
 
 ## Getting Started
 
