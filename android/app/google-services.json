@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193656195814",
+    "project_id": "iot-home-automation-2ac71",
+    "storage_bucket": "iot-home-automation-2ac71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193656195814:android:78bc40b327e3c54ebd8927",
+        "android_client_info": {
+          "package_name": "com.example.iot_p1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193656195814-vi4anuueoqb1vr770ivrun6vo3re2903.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhvoVFbLSwK6Y4dBrPOMOrh1rwELzy4v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193656195814-vi4anuueoqb1vr770ivrun6vo3re2903.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
